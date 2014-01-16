@@ -1,0 +1,13 @@
+body{
+	background-color: white;
+}
+table{
+	width: 100%;
+}
+td{
+	width: 50%;
+	text-align: center;
+}
+tr{
+	vertical-align: top;
+}
